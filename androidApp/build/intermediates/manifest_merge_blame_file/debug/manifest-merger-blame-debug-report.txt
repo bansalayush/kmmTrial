@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.scorpio.kmmnetworkapp.androidApp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[:shared] /Users/ayushbansal/Sites/KmmNetworkApp/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+11-->[:shared] /Users/ayushbansal/Sites/KmmNetworkApp/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-64
+12
+13    <application
+13-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:3:5-13:19
+14        android:allowBackup="false"
+14-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:4:13-40
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.3.1] /Users/ayushbansal/.gradle/caches/transforms-2/files-2.1/f650c92155ac93b81518c48a819f4045/core-1.3.1/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:supportsRtl="true"
+18-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:5:13-39
+19        android:theme="@style/AppTheme" >
+19-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:6:13-44
+20        <activity android:name="com.scorpio.kmmnetworkapp.androidApp.MainActivity" >
+20-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:7:9-12:20
+20-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:7:19-47
+21            <intent-filter>
+21-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:8:13-11:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:9:17-68
+22-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:9:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:10:17-76
+24-->/Users/ayushbansal/Sites/KmmNetworkApp/androidApp/src/main/AndroidManifest.xml:10:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>

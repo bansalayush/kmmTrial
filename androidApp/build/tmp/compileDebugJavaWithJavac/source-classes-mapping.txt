@@ -1,0 +1,2 @@
+com/scorpio/kmmnetworkapp/androidApp/BuildConfig.java
+ com.scorpio.kmmnetworkapp.androidApp.BuildConfig

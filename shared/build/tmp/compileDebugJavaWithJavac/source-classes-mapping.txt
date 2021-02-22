@@ -1,0 +1,2 @@
+com/scorpio/kmmnetworkapp/shared/BuildConfig.java
+ com.scorpio.kmmnetworkapp.shared.BuildConfig
